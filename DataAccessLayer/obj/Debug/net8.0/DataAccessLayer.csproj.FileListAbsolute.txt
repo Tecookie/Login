@@ -1,0 +1,14 @@
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.exe
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
