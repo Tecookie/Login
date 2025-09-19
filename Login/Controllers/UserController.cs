@@ -32,6 +32,12 @@ namespace Login.Controllers
                 return BadRequest(ex.Message);
             }
         }
+        [HttpPost]
+        [Route("google")]
+        public async Task<string> LoginWithGoogle(string credential)
+        {
+            return await _userService.ValidateGoogleToken(credential);
+        }
 
     }
 }

@@ -10,6 +10,8 @@ namespace BussinessLayer.IServices
     public interface IUserService
     {
         Task<string> Login(LoginDTO dto);
+        Task<string> ValidateGoogleToken(string token);
+
 
     }
 }

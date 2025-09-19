@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using BussinessLayer.IServices;
 using DataAccessLayer.DTO;
+using Google.Apis.Auth;
 using Microsoft.AspNetCore.Http;
 using Microsoft.IdentityModel.Tokens;
 
@@ -45,5 +46,28 @@ namespace BussinessLayer.Services
             var token = jwtTokenHandler.CreateToken(tokenDescription);
             return jwtTokenHandler.WriteToken(token);
         }
+        public async Task<string> ValidateGoogleToken(string token)
+        {
+            var GoogleClientId = "GoogleId";
+
+
+            try
+            {
+                var payload = await GoogleJsonWebSignature.ValidateAsync(token, new GoogleJsonWebSignature.ValidationSettings
+                //Install package Google.Apis.Auth
+                {
+                    Audience = new[] { GoogleClientId }
+                });
+                string email = payload.Email;
+                return email;
+                //Có email rồi thì kéo database check User có Email tương ứng
+
+            }
+            catch (Exception e)
+            {
+                throw new InvalidOperationException(e.Message);
+            }
+        }
+
     }
 }
