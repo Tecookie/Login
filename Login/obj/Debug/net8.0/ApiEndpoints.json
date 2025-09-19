@@ -1,6 +1,32 @@
 [
   {
     "ContainingType": "Login.Controllers.UserController",
+    "Method": "LoginWithGoogle",
+    "RelativePath": "api/user/google",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credential",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Login.Controllers.UserController",
     "Method": "Login",
     "RelativePath": "api/user/user",
     "HttpMethod": "POST",

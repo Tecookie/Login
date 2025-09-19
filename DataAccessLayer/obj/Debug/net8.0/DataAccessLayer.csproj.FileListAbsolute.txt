@@ -12,3 +12,4 @@ C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\refint\Da
 C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\quang\Documents\GitHub\Login\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json

@@ -34,3 +34,11 @@ C:\Users\quang\Documents\GitHub\Login\BussinessLayer\obj\Debug\net8.0\refint\Bus
 C:\Users\quang\Documents\GitHub\Login\BussinessLayer\obj\Debug\net8.0\BussinessLayer.pdb
 C:\Users\quang\Documents\GitHub\Login\BussinessLayer\obj\Debug\net8.0\BussinessLayer.genruntimeconfig.cache
 C:\Users\quang\Documents\GitHub\Login\BussinessLayer\obj\Debug\net8.0\ref\BussinessLayer.dll
+C:\Users\quang\Documents\GitHub\Login\BussinessLayer\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\quang\Documents\GitHub\Login\BussinessLayer\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\quang\Documents\GitHub\Login\BussinessLayer\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\quang\Documents\GitHub\Login\BussinessLayer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\quang\Documents\GitHub\Login\BussinessLayer\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\quang\Documents\GitHub\Login\BussinessLayer\bin\Debug\net8.0\System.Management.dll
+C:\Users\quang\Documents\GitHub\Login\BussinessLayer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\quang\Documents\GitHub\Login\BussinessLayer\obj\Debug\net8.0\BussinessLayer.sourcelink.json
